@@ -18,7 +18,7 @@ const popup = L.popup({
     className: 'map-popup',
     winWidth:240,
     winHeight:240
-}).setContent('Lar das meninas <a href="orphanage.html?id=1"class="choose-orphanage"> <img src="./public/images/arrow-white.svg"> </a>')
+}).setContent('Lar das meninas <a href="orphanage.html?id=1"class="choose-orphanage"> <img src="arrow-white.svg"> </a>')
 
 
  L
